@@ -1,7 +1,7 @@
 {
   "name": "spotify-artist-api",
   "version": "1.0.0",
-  "description": "Scrapes data from an spotify artist to a Json File",
+  "description": "Get all info from a Artist from Spotify in one JSON",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/TheD1TZ/spotifyartist-api.git"
   },
   "keywords": [
-    "Spotify"
+    "spotify"
   ],
   "author": "Ditz Guntlisbergen",
   "license": "ISC",
