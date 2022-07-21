@@ -1,6 +1,6 @@
 {
   "name": "spotify-artist-api",
-  "version": "1.0.2",
+  "version": "1.0.0-beta.1",
   "description": "Get all info from a Artist from Spotify in one JSON",
   "main": "index.js",
   "scripts": {
